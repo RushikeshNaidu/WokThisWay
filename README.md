@@ -36,4 +36,4 @@ Django’s primary deployment platform is WSGI, the Python standard for web serv
 * Manasee Godsay
 
 ### Who do I talk to?
-For any questions send an email at mssumaria@wpi.edu
+For any questions send an email at ranaidu@wpi.edu
