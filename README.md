@@ -30,9 +30,9 @@ Django’s primary deployment platform is WSGI, the Python standard for web serv
 * SQLite3
 
 ### Authors
-* Mihin Sumaria
-* Vaseem Shaikh
 * Rushikesh Naidu
+* Vaseem Shaikh
+* Mihin Sumaria
 * Manasee Godsay
 
 ### Who do I talk to?
